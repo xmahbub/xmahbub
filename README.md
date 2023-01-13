@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xmahbub
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently doing full stack development
-- 💞️ I’m looking to collaborate on large project
+- 💞️ I’m founder and CEO of Securedsoft
 - 📫 mhshakib100@gmail.com
 
 <!---
