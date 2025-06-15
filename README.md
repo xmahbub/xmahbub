@@ -33,8 +33,8 @@ I work across the full development stack — from front-end UI/UX design to back
 
 I believe in building technology that solves real-world problems. I’m always open to collaborating on new projects, open-source initiatives, or consulting on complex systems.
 
-📬 **Contact:** _[mhshakib100@gmail.com]_  
-🌐 **Website:** _[https://www.securedsoft.net/]_  
+📬 **Contact:** _mhshakib100@gmail.com_  
+🌐 **Website:** _https://www.securedsoft.net/_  
 🛠️ **Tech Stack:** Full Stack | DevOps | Mobile | AI | Cybersecurity
 
 ---
